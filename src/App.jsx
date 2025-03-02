@@ -47,7 +47,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1 className="heading">CRUD operations with Firebase and React</h1>
+        <h1 className="heading">Students Library Entry</h1>
         <form onSubmit={onSubmit} className="add-student">
           <div className="form-control">
             <label htmlFor="name">Name: </label>
